@@ -9,7 +9,7 @@ Plain Map. This is the first layer map with no tiles layered over it.
 <img width="541" alt="nobase" src='/img/nobase.png'>
 
 1. Basemap. The first tileset is a light colored monochrome basemap which comes from MapBox. 
-<img width="541" alt="basemap" src='/img/base.png'>
+<img width="541" alt="basemap" src='/img/basemap.png'>
 
 2. Libraries. The second tileset contains the locations for Seattle Libraries, which are shown in brown dots.
 <img width="541" alt="libraries" src='/img/libraries.png'>
