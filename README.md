@@ -5,8 +5,11 @@ In this lab, I have created my own map tilesets in QGIS and have layered them ov
 
 ## Tiles:
 
-1. Basemap. The first tileset is a monochrome basemap which comes from MapBox. 
+Plain Map. This is the first layer map with no tiles layered over it.
 <img width="541" alt="basemap" src='/img/nobase.png'>
+
+1. Basemap. The first tileset is a light colored monochrome basemap which comes from MapBox. 
+<img width="541" alt="basemap" src='/img/base.png'>
 
 2. Libraries. The second tileset contains the locations for Seattle Libraries, which are shown in brown dots.
 <img width="541" alt="libraries" src='/img/libraries.png'>
