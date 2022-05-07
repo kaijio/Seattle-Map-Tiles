@@ -8,7 +8,7 @@ In this lab, I have created my own map tilesets in QGIS and have layered them ov
 1. Basemap. The first tileset is a monochrome basemap which comes from MapBox. 
 <img width="541" alt="basemap" src='/img/nobase.png'>
 
-2. Libraries. The second tilesset contains the locations for Seattle Libraries, which are shown in brown dots.
+2. Libraries. The second tileset contains the locations for Seattle Libraries, which are shown in brown dots.
 <img width="541" alt="libraries" src='/img/libraries.png'>
 
 3. Libraries + Basemap. The third tileset contains the library locations on top of the MapBox basemap I have created
