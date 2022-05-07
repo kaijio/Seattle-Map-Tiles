@@ -5,7 +5,7 @@ In this lab, I have created my own map tilesets in QGIS and have layered them ov
 
 ## Tiles:
 
-Plain Map. This is the first layer map with no tiles layered over it.
+0. Plain Map. This is the first layer map with no tiles layered over it.
 <img width="541" alt="nobase" src='/img/nobase.png'>
 
 1. Basemap. The first tileset is a light colored monochrome basemap which comes from MapBox. 
